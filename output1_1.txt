@@ -1,0 +1,28 @@
+
+Ma tran ke bieu dien do thi: 
+0 1 0 1 1 0 
+1 0 1 0 1 1 
+0 1 0 1 0 1 
+1 0 1 0 1 0 
+1 1 0 1 0 1 
+0 1 1 0 1 0 
+
+Danh sach canh cua do thi: 
+1   2
+1   4
+1   5
+2   3
+2   5
+2   6
+3   4
+3   6
+4   5
+5   6
+
+Bac cua cac dinh trong do thi: 
+Bac cua dinh a = 3
+Bac cua dinh b = 4
+Bac cua dinh c = 3
+Bac cua dinh d = 3
+Bac cua dinh e = 4
+Bac cua dinh f = 3
